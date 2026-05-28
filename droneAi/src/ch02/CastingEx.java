@@ -8,6 +8,7 @@ public class CastingEx {
 		byte b = (byte) i;
 		System.out.printf("[int-> byte] i=%d --> b=%d%n", i, b);
 		
+		
 		i = 300;
 		b = (byte) i;
 		System.out.printf("[int-> byte] i=%d --> b=%d%n", i, b);
